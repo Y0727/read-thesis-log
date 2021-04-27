@@ -1,13 +1,4 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
-1. どんなもの？
+# 1. どんなもの？
 
 2. 先行研究と比べてどこがすごい？
 
